@@ -12,6 +12,8 @@
 - [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
 - [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them
+- [mycli](https://www.mycli.net/) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
+- [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 
 
 ## Vim plugins

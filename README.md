@@ -14,6 +14,8 @@
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them
 - [mycli](https://www.mycli.net/) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
+- `links` - CLI Minimal Web Browser
+- [arandr](https://christian.amsuess.com/tools/arandr) - ARandR is designed to provide a simple visual front end for XRandR.
 
 
 ## Vim plugins

@@ -21,3 +21,8 @@
 ## Vim plugins
 
 - [ag.vim](https://github.com/rking/ag.vim) ( [deprecated](https://github.com/rking/ag.vim/issues/124#issuecomment-227038003) ) -> [ack.vim](https://github.com/mileszs/ack.vim) 
+
+## Security
+
+- [testdisk](https://git.cgsecurity.org/cgit/testdisk/) - TestDisk est un logiciel libre de récupération de données.
+- [shodan](https://github.com/achillean/shodan-python) - The official Python library and CLI for Shodan

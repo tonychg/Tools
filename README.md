@@ -20,6 +20,7 @@
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
+- [lnav](http://lnav.org/downloads) - The log file navigator
 
 ## Vim plugins
 

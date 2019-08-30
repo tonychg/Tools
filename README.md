@@ -16,7 +16,10 @@
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - `links` - CLI Minimal Web Browser
 - [arandr](https://christian.amsuess.com/tools/arandr) - ARandR is designed to provide a simple visual front end for XRandR.
-
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 
 ## Vim plugins
 

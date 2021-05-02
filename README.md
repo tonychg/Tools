@@ -30,3 +30,4 @@
 
 - [testdisk](https://git.cgsecurity.org/cgit/testdisk/) - TestDisk est un logiciel libre de récupération de données.
 - [shodan](https://github.com/achillean/shodan-python) - The official Python library and CLI for Shodan
+- [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.

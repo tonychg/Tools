@@ -21,6 +21,7 @@
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [lnav](http://lnav.org/downloads) - The log file navigator
+- [libreelec](https://libreelec.tv/downloads/) - Just enough OS for KODI
 
 ## Vim plugins
 
